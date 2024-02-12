@@ -149,7 +149,7 @@ public function edit($id)
 //         'description' => 'required',
 //     ]);
 
-//     print_r($validatedData);
+//   
 //     exit;
 //     $theme->update($validatedData);
 
